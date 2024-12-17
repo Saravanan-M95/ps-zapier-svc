@@ -1,4 +1,4 @@
-package com.ps.ps_zapier_svc;
+package com.ps.zapier;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
